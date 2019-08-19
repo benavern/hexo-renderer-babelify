@@ -1,6 +1,6 @@
 {
   "name": "hexo-renderer-babelify",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Add the ability to write es6 scripts with imports/export capabilities",
   "main": "index",
   "repository": {
