@@ -1,4 +1,4 @@
-# hexo-renderer-coffeescript
+# hexo-renderer-babelify
 
 Add support for ES6 javascript with import/export capability.
 
