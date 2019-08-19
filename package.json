@@ -1,0 +1,29 @@
+{
+  "name": "hexo-renderer-babelify",
+  "version": "0.0.1",
+  "description": "Add the ability to write es6 scripts with imports/export capabilities",
+  "main": "index",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benavern/hexo-renderer-babelify.git"
+  },
+  "keywords": [
+    "babel",
+    "browserify",
+    "hexo"
+  ],
+  "author": "Benjamin Caradeuc <benjamin@caradeuc.info> (https://benjamin.caradeuc.info)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benavern/hexo-renderer-babelify/issues"
+  },
+  "homepage": "https://github.com/benavern/hexo-renderer-babelify#readme",
+  "dependencies": {
+    "@babel/core": "^7.5.5",
+    "babelify": "^10.0.0",
+    "browserify": "^16.5.0"
+  },
+  "engines": {
+    "node": ">= 8"
+  }
+}
